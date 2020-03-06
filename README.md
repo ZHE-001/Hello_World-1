@@ -2,8 +2,8 @@
 
 - [Welcome](#Welcome)
 - [Description](#Description)
-- [Life in China](#Life in China)
-- [Life in U.S.](#Life in U.S.)
+- [Life in China](#Life-in-China)
+- [Life in U.S.](#Life-in-U.S.)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 
 ## Welcome
