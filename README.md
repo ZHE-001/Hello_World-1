@@ -4,7 +4,7 @@
 - [Description](#Description)
 - [Life in China](#Life-in-China)
 - [Life in U.S.](#Life-in-U.S.)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [Be visual](#Be-visual)
 
 ## Welcome
 
@@ -24,7 +24,7 @@ You can see how I lived and learned in China. For the days in China, I was close
 For the life in Iowa, I enjoy the circumstance in here. Quiet and comfortable. People are friendly and sweet. Futhermore, I switch my attention on studying, to improve my knowledge in Business Analytics and business area. 
 
 
-## Additional Documentation
+## Be visual
 
 Pictures in China and Iowa. 
 
