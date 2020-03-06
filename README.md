@@ -1,49 +1,31 @@
 ## Table of contents
 
-- [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [FILES USED](#files-used)
+- [Welcome](#Welcome)
+- [Description](#Description)
+- [Life in China](#Life in China)
+- [Life in U.S.](#Life in U.S.)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
 
-## Project Title
+## Welcome
 
-Hello World Sample 
+Welcome to get closely with me. Scroll down, know deeper.
 
 ## Description
 
-Practice using GitHub by creating a sample repository
+How can you konw me in different aspect.
 
-## How to Run Program 
+## Life in China
 
-Explain here how you would run the program and what files need to be available. 
-```text
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-   
-```
+You can see how I lived and learned in China. For the days in China, I was closer to citizens life and local culture. I engaged into activities and wanted to have more interactions with people. 
 
-## Files Used 
 
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+## Life in Iowa
+
+For the life in Iowa, I enjoy the circumstance in here. Quiet and comfortable. People are friendly and sweet. Futhermore, I switch my attention on studying, to improve my knowledge in Business Analytics and business area. 
 
 
 ## Additional Documentation
 
-No additional documentation at this time 
+Pictures in China and Iowa. 
 
 
-## Versioning
-
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
